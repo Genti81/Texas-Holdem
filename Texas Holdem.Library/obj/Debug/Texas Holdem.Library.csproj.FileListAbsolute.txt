@@ -1,0 +1,34 @@
+E:\Skola\C# med Jonas\Texas Holdem\Texas Holdem.Library\bin\Debug\Texas Holdem.Library.dll
+E:\Skola\C# med Jonas\Texas Holdem\Texas Holdem.Library\bin\Debug\Texas Holdem.Library.pdb
+E:\Skola\C# med Jonas\Texas Holdem\Texas Holdem.Library\obj\Debug\Texas Holdem.Library.csprojResolveAssemblyReference.cache
+E:\Skola\C# med Jonas\Texas Holdem\Texas Holdem.Library\obj\Debug\Texas Holdem.Library.csproj.CoreCompileInputs.cache
+E:\Skola\C# med Jonas\Texas Holdem\Texas Holdem.Library\obj\Debug\Texas Holdem.Library.dll
+E:\Skola\C# med Jonas\Texas Holdem\Texas Holdem.Library\obj\Debug\Texas Holdem.Library.pdb
+C:\Users\genti\source\repos\Texas Holdem\Texas Holdem.Library\bin\Debug\Texas Holdem.Library.dll
+C:\Users\genti\source\repos\Texas Holdem\Texas Holdem.Library\bin\Debug\Texas Holdem.Library.pdb
+C:\Users\genti\source\repos\Texas Holdem\Texas Holdem.Library\obj\Debug\Texas Holdem.Library.csprojResolveAssemblyReference.cache
+C:\Users\genti\source\repos\Texas Holdem\Texas Holdem.Library\obj\Debug\Texas Holdem.Library.csproj.CoreCompileInputs.cache
+C:\Users\genti\source\repos\Texas Holdem\Texas Holdem.Library\obj\Debug\Texas Holdem.Library.dll
+C:\Users\genti\source\repos\Texas Holdem\Texas Holdem.Library\obj\Debug\Texas Holdem.Library.pdb
+C:\Users\StudentPC\Desktop\Texas Holdem\Texas Holdem.Library\bin\Debug\Texas Holdem.Library.dll
+C:\Users\StudentPC\Desktop\Texas Holdem\Texas Holdem.Library\bin\Debug\Texas Holdem.Library.pdb
+C:\Users\StudentPC\Desktop\Texas Holdem\Texas Holdem.Library\obj\Debug\Texas Holdem.Library.csprojResolveAssemblyReference.cache
+C:\Users\StudentPC\Desktop\Texas Holdem\Texas Holdem.Library\obj\Debug\Texas Holdem.Library.csproj.CoreCompileInputs.cache
+C:\Users\StudentPC\Desktop\Texas Holdem\Texas Holdem.Library\obj\Debug\Texas Holdem.Library.dll
+C:\Users\StudentPC\Desktop\Texas Holdem\Texas Holdem.Library\obj\Debug\Texas Holdem.Library.pdb
+C:\Users\genti\Desktop\Texas Holdem\Texas Holdem.Library\bin\Debug\Texas Holdem.Library.dll
+C:\Users\genti\Desktop\Texas Holdem\Texas Holdem.Library\bin\Debug\Texas Holdem.Library.pdb
+C:\Users\genti\Desktop\Texas Holdem\Texas Holdem.Library\bin\Debug\System.ValueTuple.dll
+C:\Users\genti\Desktop\Texas Holdem\Texas Holdem.Library\bin\Debug\System.ValueTuple.xml
+C:\Users\genti\Desktop\Texas Holdem\Texas Holdem.Library\obj\Debug\Texas Holdem.Library.csprojResolveAssemblyReference.cache
+C:\Users\genti\Desktop\Texas Holdem\Texas Holdem.Library\obj\Debug\Texas Holdem.Library.csproj.CoreCompileInputs.cache
+C:\Users\genti\Desktop\Texas Holdem\Texas Holdem.Library\obj\Debug\Texas Holdem.Library.dll
+C:\Users\genti\Desktop\Texas Holdem\Texas Holdem.Library\obj\Debug\Texas Holdem.Library.pdb
+C:\Users\StudentPC\Desktop\Exam C#\Texas Holdem Sista Delen\Texas Holdem.Library\obj\Debug\Texas Holdem.Library.csprojResolveAssemblyReference.cache
+C:\Users\StudentPC\Desktop\Exam C#\Texas Holdem Sista Delen\Texas Holdem.Library\obj\Debug\Texas Holdem.Library.csproj.CoreCompileInputs.cache
+C:\Users\StudentPC\Desktop\Exam C#\Texas Holdem Sista Delen\Texas Holdem.Library\obj\Debug\Texas Holdem.Library.dll
+C:\Users\StudentPC\Desktop\Exam C#\Texas Holdem Sista Delen\Texas Holdem.Library\obj\Debug\Texas Holdem.Library.pdb
+C:\Users\StudentPC\Desktop\Exam C#\Texas Holdem Sista Delen\Texas Holdem.Library\bin\Debug\Texas Holdem.Library.dll
+C:\Users\StudentPC\Desktop\Exam C#\Texas Holdem Sista Delen\Texas Holdem.Library\bin\Debug\Texas Holdem.Library.pdb
+C:\Users\StudentPC\Desktop\Exam C#\Texas Holdem Sista Delen\Texas Holdem.Library\bin\Debug\System.ValueTuple.dll
+C:\Users\StudentPC\Desktop\Exam C#\Texas Holdem Sista Delen\Texas Holdem.Library\bin\Debug\System.ValueTuple.xml
